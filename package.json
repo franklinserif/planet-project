@@ -1,0 +1,12 @@
+{
+  "name": "planet-project",
+  "version": "1.0.0",
+  "description": "Planet project ",
+  "main": "src/index.js",
+  "author": "Franklin Rodriguez <franklinserif@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
